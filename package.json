@@ -1,0 +1,16 @@
+{
+  "name": "shelter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass --watch pages/main/main.scss pages/main/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://rolling-scopes-school.github.io/ghostfromby-JS2020Q3/shelter/"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
